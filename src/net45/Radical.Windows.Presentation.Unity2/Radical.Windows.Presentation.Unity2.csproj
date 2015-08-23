@@ -116,9 +116,6 @@
     <Compile Include="..\..\net40\Radical.Windows.Presentation.Unity2\Properties\AssemblyInfo.cs">
       <Link>Properties\AssemblyInfo.cs</Link>
     </Compile>
-    <Compile Include="..\..\net40\Radical.Windows.Presentation.Unity2\Properties\NugetInfo.cs">
-      <Link>Properties\NugetInfo.cs</Link>
-    </Compile>
     <Compile Include="..\..\net40\Radical.Windows.Presentation.Unity2\Services\ComponentReleaser.cs">
       <Link>Services\ComponentReleaser.cs</Link>
     </Compile>
